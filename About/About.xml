@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Room Size Tolerance</name>
+	<author>neceros</author>
+	<supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+  </supportedVersions>
+  <packageId>neceros.roomsizetolerance</packageId>
+	<description>Have you ever asked yourself, "Self, why do my colonists have such big expectations when it comes to room size? Aren't they trying to colonize this place? They obviously understand survival is far more important than how much room for activities they have, right?"
+
+  Now they do.</description>
+</ModMetaData>
