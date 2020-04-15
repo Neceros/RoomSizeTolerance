@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RoomSizeTolerance\Assemblies\RoomSize.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RoomSizeTolerance\Source\RoomSize\obj\Debug\RoomSize.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RoomSizeTolerance\Source\RoomSize\obj\Debug\RoomSize.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RoomSizeTolerance\Source\RoomSize\obj\Debug\RoomSize.dll

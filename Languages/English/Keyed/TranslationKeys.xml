@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <!-- Main -->
+  <RSTitle>Room Size Tolerance</RSTitle>
+
+  <RSTooltip>Minimum number of cells in a room to be classified for this size</RSTooltip>
+
+  <RSRTLabel>Rather tight</RSRTLabel>
+  <RSASLabel>Average-sized</RSASLabel>
+  <RSSSLabel>Somewhat spacious</RSSSLabel>
+  <RSQSLabel>Quite spacious</RSQSLabel>
+  <RSVSLabel>Very spacious</RSVSLabel>
+  <RSESLabel>Extremely spacious</RSESLabel>
+
+  <RSResetLabel>Reset to default values</RSResetLabel>
+</LanguageData>
