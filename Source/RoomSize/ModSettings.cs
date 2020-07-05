@@ -91,7 +91,7 @@ namespace RoomSize
       return (float)Math.Round(val * 2, MidpointRounding.AwayFromZero) / 2;
     }
 
-    private float RoundToNearestTenth(float val)
+    private float RoundToNearestHundredth(float val)
     {
       return (float)Math.Round(val * 100, MidpointRounding.AwayFromZero) / 100;
     }
